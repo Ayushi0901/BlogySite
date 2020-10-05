@@ -1,0 +1,27 @@
+  {% extends "layout.html" %}
+  {% block body %}
+      <!-- Page Header -->
+      <header class="masthead" style="background-image: url('{{ url_for('static', filename='img/about.jpg') }}')">
+        <div class="overlay"></div>
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 col-md-10 mx-auto">
+              <div class="page-heading">
+                <h1>About Me</h1>
+                <span class="subheading">Koun hai Hum?</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+      <!-- Main Content -->
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-md-10 mx-auto">
+            <p><em> BlogySite is a Blog Site developed by Ayushi Srivastava ,an engineering student from IMS Engineering College . You can read amazing content by various amazing writers on various topics and
+               Here , you can share your thoughts that you want to share with us. Just you need is to contact us !! </em></p>
+          </div>
+        </div>
+      </div>
+     {% endblock %}
+  

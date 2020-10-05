@@ -1,0 +1,23 @@
+
+{
+    "params":
+    {
+      "local_sever":"True",
+      "local_uri":"sqlite:///codingworld.db",
+      "prod_uri":"sqlite:///codingworld.db",
+      "fb_url": "https://www.facebook.com/BlogySite",
+      "tw_url": "https://twitter.com/BlogySite",
+      "git_url": "https://github.com/BlogySite",
+      "tag_line": "A Place For a Good Writer",
+      "gmail-user":"{Your Email id}",
+      "gmail-password":"{Your email id pasward}",
+      "about_text": "hi fork",
+      "no_of_posts": 3,
+      "login_image":"login.jpg",
+      "admin_user":"{your Admin User name}",
+      "admin_passward":"ayushi111",
+      "blog_name": "BlogySite",
+      "upload_location":"C:\\Users\\user\\OneDrive\\Desktop\\My work\\flask\\static\\img"
+    }
+  }
+  

@@ -9,7 +9,7 @@
   <h1>Contact page</h1> 
    <p>- where you can Contact to BlogySite [Anyone can use]</p>
   <h1>Dashboard page</h1> 
-    <p>-where Admin can do following things-</p>
+    <p>-where Admin can do following things-:</p>
     <ul>
     <li>Admin can add a post</li>
     <li>Admin can upload a file {like pdf , images or anything}</li>

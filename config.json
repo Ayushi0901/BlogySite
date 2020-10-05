@@ -15,7 +15,7 @@
       "no_of_posts": 3,
       "login_image":"login.jpg",
       "admin_user":"{your Admin User name}",
-      "admin_passward":"ayushi111",
+      "admin_passward":"{your Admin User passward}",
       "blog_name": "BlogySite",
       "upload_location":"C:\\Users\\user\\OneDrive\\Desktop\\My work\\flask\\static\\img"
     }

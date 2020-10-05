@@ -1,5 +1,5 @@
 # BlogySite
-<p> A BlogySite is a blog site build with HTML,CSS, Bootstrap (for Frontend) and Python-Flask ,Sqlite (for Backend)</p>
+<p> A BlogySite is a blog site build with HTML,CSS, JS ,Bootstrap (for Frontend) and Python-Flask ,Sqlite (for Backend)</p>
  <h3>What are BlogySite options?</h3>
  <p>It consists --
 <h1>Home page</h1> 

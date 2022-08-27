@@ -17,7 +17,7 @@
     <li>Admin can delete a blog</li>
     <li>logout button</li> [Only Admin can use]
   </li></ul>
-  <H1> Have a look --> <i style="color:blue;font-size:1px;> https://drive.google.com/file/d/1IOq4O10LbQM5qPVXc4_R1k3TlGSqunxq/view?usp=sharing </i></H1>
+  <H1> Have a look --> <i> https://drive.google.com/file/d/1IOq4O10LbQM5qPVXc4_R1k3TlGSqunxq/view?usp=sharing </i></H1>
   
  
  

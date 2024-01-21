@@ -17,7 +17,7 @@
     <li>Admin can delete a blog</li>
     <li>logout button</li> [Only Admin can use]
   </li></ul>
- [Project Video link](https://youtu.be/gRJXMsEkb9M)
+ [Project video link](https://youtu.be/gRJXMsEkb9M)
   
  
  
